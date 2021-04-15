@@ -1,0 +1,6 @@
+name: Bow
+version: 0.1
+main: net.pen.telebow.main.Telebow
+description: Bow
+commands:
+  Bow:
